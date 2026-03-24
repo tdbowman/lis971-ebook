@@ -2,7 +2,7 @@
 
 **LIS 971 @ Dominican University | School of Information Studies**
 
----
+---    
 
 This interactive eBook is your methodological companion for **LIS 971: Research Methods for Dissertation Work**. It synthesizes the core readings, frameworks, and practical tools you need to design, defend, and write a rigorous methodology chapter for your dissertation.
 
