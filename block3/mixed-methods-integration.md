@@ -2,7 +2,7 @@
 
 ## The Integration Challenge
 
-As Fetters, Curry, and Creswell (2013) emphasize, the distinguishing feature of mixed methods research is not merely collecting both qualitative and quantitative data — it is *integrating* them. Many published studies fail to achieve meaningful integration, collecting both data types but analyzing and reporting them in parallel without genuine synthesis.
+As Fetters, Curry, and Creswell (2013) emphasize, the distinguishing feature of mixed methods research is not merely collecting both qualitative and quantitative data-it is *integrating* them. Many published studies fail to achieve meaningful integration, collecting both data types but analyzing and reporting them in parallel without genuine synthesis.
 
 ```{important}
 If you are conducting mixed methods research, your methodology chapter must specify *exactly* how and where integration will occur. "I will collect both qualitative and quantitative data" describes parallel studies, not mixed methods. Integration must be deliberate, planned, and visible.
@@ -79,7 +79,7 @@ Guetterman, Fetters, and Creswell (2015) demonstrate that joint displays are amo
   - Suggests construct may need...
 ```
 
-The rightmost columns — *integration assessment* and *meta-inference* — are where the mixed methods contribution becomes explicit. Findings can confirm, expand, or challenge each other, and meta-inferences draw conclusions that neither strand could support alone.
+The rightmost columns-*integration assessment* and *meta-inference*-are where the mixed methods contribution becomes explicit. Findings can confirm, expand, or challenge each other, and meta-inferences draw conclusions that neither strand could support alone.
 
 ```{tip}
 Draft a preliminary joint display template *before* collecting data. This forces you to think concretely about integration and reveals gaps in your design. You won't fill in the findings columns until analysis, but having the structure ready sharpens your thinking.
@@ -89,15 +89,15 @@ Draft a preliminary joint display template *before* collecting data. This forces
 
 ## Handling Discordance
 
-What happens when qualitative and quantitative findings disagree? This is not a failure — it is often the most analytically productive situation in mixed methods research.
+What happens when qualitative and quantitative findings disagree? This is not a failure-it is often the most analytically productive situation in mixed methods research.
 
 Strategies for addressing discordance:
 
 1. **Collect additional data** to explore the inconsistency
-2. **Revisit your data** with fresh analytic eyes — might you have missed something in one strand?
-3. **Examine methodological explanations** — could different methods have captured different aspects of the same phenomenon?
-4. **Treat discordance as a finding** — the disagreement itself may reveal something important about your phenomenon
-5. **Report transparently** — do not suppress discordant findings or force artificial agreement
+2. **Revisit your data** with fresh analytic eyes-might you have missed something in one strand?
+3. **Examine methodological explanations**-could different methods have captured different aspects of the same phenomenon?
+4. **Treat discordance as a finding**-the disagreement itself may reveal something important about your phenomenon
+5. **Report transparently**-do not suppress discordant findings or force artificial agreement
 
 ---
 
@@ -109,7 +109,7 @@ Your methodology chapter should specify:
 2. **What specific integration techniques** you will use (connecting, building, merging, joint displays)
 3. **How you will handle discordant findings** when QUAL and QUAN disagree
 4. **How integration will be represented** visually in your final manuscript (joint displays, side-by-side comparisons, narrative weaving)
-5. **What meta-inferences** you expect to draw — conclusions that neither strand could support alone
+5. **What meta-inferences** you expect to draw-conclusions that neither strand could support alone
 
 ---
 

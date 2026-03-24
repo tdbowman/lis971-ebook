@@ -2,13 +2,13 @@
 
 ## Sampling as a Design Decision
 
-Sampling is not merely a procedural step — it is a *design decision* that shapes the scope, credibility, and transferability of your findings. The logic of sampling differs fundamentally across research traditions, and your methodology chapter must explain not only *who* you will study but *why* and *how* you selected them.
+Sampling is not merely a procedural step-it is a *design decision* that shapes the scope, credibility, and transferability of your findings. The logic of sampling differs fundamentally across research traditions, and your methodology chapter must explain not only *who* you will study but *why* and *how* you selected them.
 
 ---
 
 ## Probability Sampling (Quantitative Tradition)
 
-Probability sampling aims for *representativeness* — the ability to generalize findings from a sample to a larger population. Each member of the population has a known, non-zero probability of selection.
+Probability sampling aims for *representativeness*-the ability to generalize findings from a sample to a larger population. Each member of the population has a known, non-zero probability of selection.
 
 ### Common Probability Sampling Techniques
 
@@ -49,10 +49,10 @@ In qualitative research, the goal is not representativeness but *information ric
 : Initial participants refer the researcher to others. Useful for hidden or hard-to-reach populations.
 
 **Theory-based / Theoretical sampling**
-: Selection driven by emerging theoretical constructs (Charmaz, 2006). Sampling continues until *theoretical saturation* — new data no longer generate new conceptual insights.
+: Selection driven by emerging theoretical constructs (Charmaz, 2006). Sampling continues until *theoretical saturation*-new data no longer generate new conceptual insights.
 
 **Critical case**
-: Selecting cases that are particularly important or revealing — if it holds here, it likely holds elsewhere.
+: Selecting cases that are particularly important or revealing-if it holds here, it likely holds elsewhere.
 
 **Intensity**
 : Information-rich cases that manifest the phenomenon intensely but not extremely.
@@ -70,7 +70,7 @@ Sample size logic differs dramatically between traditions.
 
 ### Quantitative: Power Analysis
 
-Sample size is determined *a priori* through **power analysis** — calculating the number of participants needed to detect an effect of a given size with specified statistical power and significance level (Cohen, 1992).
+Sample size is determined *a priori* through **power analysis**-calculating the number of participants needed to detect an effect of a given size with specified statistical power and significance level (Cohen, 1992).
 
 Four parameters are interdependent:
 1. **Effect size** (*d*, *r*, *f*): How large is the effect you expect to find?
@@ -95,10 +95,10 @@ See the {doc}`notebook-power-analysis` for an interactive power analysis calcula
 
 ### Qualitative: Saturation
 
-Sample size is determined by **saturation** — the point at which additional data collection yields diminishing new insights. Guest, Bunce, and Johnson (2006) found that saturation often occurs within 12 interviews for relatively homogeneous populations, though this varies widely depending on the complexity of the phenomenon and the heterogeneity of participants.
+Sample size is determined by **saturation**-the point at which additional data collection yields diminishing new insights. Guest, Bunce, and Johnson (2006) found that saturation often occurs within 12 interviews for relatively homogeneous populations, though this varies widely depending on the complexity of the phenomenon and the heterogeneity of participants.
 
 ```{tip}
-In your methodology chapter, don't just state a sample size number — *justify* it. For quantitative work, report your power analysis parameters. For qualitative work, explain your saturation logic and cite methodological literature supporting your estimate.
+In your methodology chapter, don't just state a sample size number-*justify* it. For quantitative work, report your power analysis parameters. For qualitative work, explain your saturation logic and cite methodological literature supporting your estimate.
 ```
 
 ### Mixed Methods: Dual Justification

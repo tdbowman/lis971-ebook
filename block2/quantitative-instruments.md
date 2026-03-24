@@ -2,7 +2,7 @@
 
 ## Survey Design Principles
 
-Dillman, Smyth, and Christian (2016) offer the *Tailored Design Method* — a comprehensive approach to maximizing survey response quality.
+Dillman, Smyth, and Christian (2016) offer the *Tailored Design Method*-a comprehensive approach to maximizing survey response quality.
 
 ### Question Design
 
@@ -91,7 +91,7 @@ Corti (2014) emphasizes that data management is integral to research design, not
 : Establish a consistent system before you begin collecting data. Include date stamps, version numbers, and descriptive labels.
 
 **Data storage and backup**
-: The 3-2-1 rule — 3 copies, 2 media types, 1 offsite. Use encrypted storage for sensitive data.
+: The 3-2-1 rule-3 copies, 2 media types, 1 offsite. Use encrypted storage for sensitive data.
 
 **Documentation**
 : Codebooks, variable definitions, data dictionaries. Your future self (and your committee) will thank you.

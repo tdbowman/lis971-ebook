@@ -4,14 +4,14 @@
 
 Maxwell (2013) identifies three main groups of qualitative analytic strategies:
 
-1. **Memos**: Analytical writing about your data — the primary vehicle for developing ideas
-2. **Categorizing strategies**: Coding and thematic analysis — fracturing data into categories
-3. **Connecting strategies**: Narrative analysis — preserving the coherence of individual accounts
+1. **Memos**: Analytical writing about your data-the primary vehicle for developing ideas
+2. **Categorizing strategies**: Coding and thematic analysis-fracturing data into categories
+3. **Connecting strategies**: Narrative analysis-preserving the coherence of individual accounts
 
 These are not mutually exclusive; most qualitative studies use some combination. The key is to name and justify your approach explicitly in your methodology chapter.
 
 ```{important}
-Coding is not the same as analysis. Coding is a *tool* for analysis — a way of organizing data so that you can think with it. The analysis happens when you interpret patterns, build arguments, and connect codes to theory.
+Coding is not the same as analysis. Coding is a *tool* for analysis-a way of organizing data so that you can think with it. The analysis happens when you interpret patterns, build arguments, and connect codes to theory.
 ```
 
 ---
@@ -22,7 +22,7 @@ Coding is not the same as analysis. Coding is a *tool* for analysis — a way of
 
 Charmaz describes a two-phase coding process rooted in the constant comparative method (Glaser & Strauss, 1967):
 
-#### Phase 1 — Initial Coding
+#### Phase 1-Initial Coding
 
 - Line-by-line or incident-by-incident coding
 - Stay close to the data; use **gerunds** (action words ending in "-ing") to preserve process
@@ -31,46 +31,46 @@ Charmaz describes a two-phase coding process rooted in the constant comparative 
 - Ask: "What theoretical category does this specific datum indicate?"
 
 ```{tip}
-Charmaz (2006) recommends gerund-based codes because they force you to see actions and processes rather than static topics. Compare "Loss" (a topic) with "Experiencing loss" or "Managing loss" (processes) — the gerund reveals far more analytical potential.
+Charmaz (2006) recommends gerund-based codes because they force you to see actions and processes rather than static topics. Compare "Loss" (a topic) with "Experiencing loss" or "Managing loss" (processes)-the gerund reveals far more analytical potential.
 ```
 
-#### Phase 2 — Focused Coding
+#### Phase 2-Focused Coding
 
 - Select the most significant and/or frequent initial codes
 - Use these to sift through large amounts of data
 - Begin to develop **categories** with properties and dimensions
-- Move toward *theoretical coding* — conceptualizing how categories relate to each other
+- Move toward *theoretical coding*-conceptualizing how categories relate to each other
 
 #### Theoretical Sampling
 
-In grounded theory, coding and data collection are interleaved. As categories emerge, you conduct **theoretical sampling** — deliberately seeking new data to develop, refine, and test your emerging categories. Sampling continues until **theoretical saturation** — the point at which new data no longer generate new properties of your core categories.
+In grounded theory, coding and data collection are interleaved. As categories emerge, you conduct **theoretical sampling**-deliberately seeking new data to develop, refine, and test your emerging categories. Sampling continues until **theoretical saturation**-the point at which new data no longer generate new properties of your core categories.
 
 ```{warning}
-A common mistake is claiming grounded theory methodology but not actually conducting theoretical sampling or pursuing saturation. If you use grounded theory coding procedures without the iterative data collection that defines the methodology, acknowledge this honestly — you are conducting thematic analysis informed by grounded theory techniques, not a full grounded theory study.
+A common mistake is claiming grounded theory methodology but not actually conducting theoretical sampling or pursuing saturation. If you use grounded theory coding procedures without the iterative data collection that defines the methodology, acknowledge this honestly-you are conducting thematic analysis informed by grounded theory techniques, not a full grounded theory study.
 ```
 
 ---
 
 ### Thematic Analysis (Braun & Clarke, 2006)
 
-Braun and Clarke offer a six-phase approach that is flexible across epistemological positions — a major advantage for researchers who want systematic coding without the full theoretical commitments of grounded theory.
+Braun and Clarke offer a six-phase approach that is flexible across epistemological positions-a major advantage for researchers who want systematic coding without the full theoretical commitments of grounded theory.
 
 #### The Six Phases
 
 **1. Familiarization**
-: Immerse yourself in the data through repeated reading. Read actively — noting initial ideas, patterns, and questions. This is not a passive step.
+: Immerse yourself in the data through repeated reading. Read actively-noting initial ideas, patterns, and questions. This is not a passive step.
 
 **2. Generating initial codes**
-: Systematically identify interesting features across the entire dataset. Code inclusively — more codes can be collapsed later, but uncoded data are lost.
+: Systematically identify interesting features across the entire dataset. Code inclusively-more codes can be collapsed later, but uncoded data are lost.
 
 **3. Searching for themes**
-: Collate codes into potential themes. A theme captures something important about the data in relation to your research question. Use visual tools — mind maps, tables, or sticky notes — to experiment with groupings.
+: Collate codes into potential themes. A theme captures something important about the data in relation to your research question. Use visual tools-mind maps, tables, or sticky notes-to experiment with groupings.
 
 **4. Reviewing themes**
 : Check themes at two levels: (a) Do the coded extracts form a coherent pattern within each theme? (b) Does the thematic map accurately represent the dataset as a whole? This may involve splitting, combining, or discarding themes.
 
 **5. Defining and naming themes**
-: Refine the specifics of each theme — what is its "essence"? Write a brief narrative for each theme. Name themes with concise, informative labels.
+: Refine the specifics of each theme-what is its "essence"? Write a brief narrative for each theme. Name themes with concise, informative labels.
 
 **6. Producing the report**
 : Final analysis, selecting vivid and compelling extracts that illustrate each theme. The write-up should go beyond description to make an *argument* in relation to your research question.
@@ -85,7 +85,7 @@ Braun and Clarke offer a six-phase approach that is flexible across epistemologi
 
 ```{admonition} Which Approach?
 :class: note
-Your choice should align with your research questions and epistemological position. If your RQs are exploratory ("What are the experiences of...?"), inductive analysis is appropriate. If your RQs are shaped by existing theory ("How does [theoretical concept] manifest in...?"), deductive analysis makes more sense. Many studies combine both — beginning inductively and then applying a theoretical lens to the emergent themes.
+Your choice should align with your research questions and epistemological position. If your RQs are exploratory ("What are the experiences of...?"), inductive analysis is appropriate. If your RQs are shaped by existing theory ("How does [theoretical concept] manifest in...?"), deductive analysis makes more sense. Many studies combine both-beginning inductively and then applying a theoretical lens to the emergent themes.
 ```
 
 ---
@@ -123,7 +123,7 @@ Your methodology chapter should specify which QDA software you will use and why:
 | **Dedoose** | Web-based; good for mixed methods; affordable | dedoose.com |
 
 ```{tip}
-Software does not analyze data — *you* do. QDA software helps you organize, code, retrieve, and query your data efficiently, but the interpretive work remains yours. Choose software you can learn well within your timeline.
+Software does not analyze data-*you* do. QDA software helps you organize, code, retrieve, and query your data efficiently, but the interpretive work remains yours. Choose software you can learn well within your timeline.
 ```
 
 ---
@@ -153,7 +153,7 @@ These remain foundational and are frequently expected by dissertation committees
 - **Confirmability** (parallel to objectivity)
 
 ```{important}
-Don't just *list* trustworthiness strategies — explain how each one will operate *in your specific study*. A generic statement like "I will use triangulation and member checking" is insufficient. Specify what you will triangulate (which data sources, methods, or theories) and how you will conduct member checks (sharing transcripts? findings? with whom? at what stage?).
+Don't just *list* trustworthiness strategies-explain how each one will operate *in your specific study*. A generic statement like "I will use triangulation and member checking" is insufficient. Specify what you will triangulate (which data sources, methods, or theories) and how you will conduct member checks (sharing transcripts? findings? with whom? at what stage?).
 ```
 
 ---
@@ -163,7 +163,7 @@ Don't just *list* trustworthiness strategies — explain how each one will opera
 Write a 2–3 page analysis plan section that:
 
 1. **Names your analytic approach** (thematic analysis, grounded theory coding, narrative analysis, etc.) and cites the methodological source
-2. **Describes the coding process** step by step — what will you do first, second, third?
+2. **Describes the coding process** step by step-what will you do first, second, third?
 3. **Specifies your software** and explains why you chose it
 4. **Addresses saturation**: How will you know when you have analyzed enough?
 5. **Lists trustworthiness strategies** with specific details about implementation in your study

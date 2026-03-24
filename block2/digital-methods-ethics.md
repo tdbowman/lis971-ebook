@@ -9,10 +9,10 @@ Salganik (2018) and Freelon (2014) address the unique opportunities and challeng
 Salganik (2018) draws a crucial distinction:
 
 **Found data** (readymade)
-: Data that already exist — tweets, forum posts, library circulation records, web logs. Not created for research purposes.
+: Data that already exist-tweets, forum posts, library circulation records, web logs. Not created for research purposes.
 
 **Designed data** (custommade)
-: Data deliberately collected for research — surveys, experiments, interviews conducted online.
+: Data deliberately collected for research-surveys, experiments, interviews conducted online.
 
 Most digital trace data are *found data*, which carries both advantages and challenges.
 
@@ -93,11 +93,11 @@ Lazer et al. (2009) outline the emerging field of computational social science, 
 
 Your methodology chapter should address:
 
-- **IRB review status**: Exempt, expedited, or full review — and why
-- **Informed consent procedures**: Written, verbal, or waiver — and justification
+- **IRB review status**: Exempt, expedited, or full review-and why
+- **Informed consent procedures**: Written, verbal, or waiver-and justification
 - **Confidentiality protections**: Pseudonyms, de-identification, data security
 - **Risk mitigation strategies**: What are the risks and how will you minimize them?
-- **Participant compensation**: If any — and why or why not
+- **Participant compensation**: If any-and why or why not
 - **Data retention and disposal**: How long will you keep data? How will you destroy it?
 
 ```{tip}

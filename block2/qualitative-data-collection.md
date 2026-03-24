@@ -61,10 +61,10 @@ Emerson, Fretz, and Shaw (2011) provide the foundational framework for ethnograp
 
 A continuum from detachment to immersion:
 
-1. **Complete observer** — No interaction with participants
-2. **Observer as participant** — Primarily observing, with some interaction
-3. **Participant as observer** — Primarily participating, with observation role known
-4. **Complete participant** — Full immersion, observation role may be unknown
+1. **Complete observer**-No interaction with participants
+2. **Observer as participant**-Primarily observing, with some interaction
+3. **Participant as observer**-Primarily participating, with observation role known
+4. **Complete participant**-Full immersion, observation role may be unknown
 
 ---
 
@@ -74,11 +74,11 @@ Bowen (2009) establishes document analysis as a legitimate standalone method:
 
 - Systematic procedure for reviewing and evaluating documents
 - Combines elements of content analysis and thematic analysis
-- Requires attention to the *context of production* — who created the document, for whom, and why?
+- Requires attention to the *context of production*-who created the document, for whom, and why?
 - Particularly relevant for LIS researchers studying archival materials, institutional records, and policy documents
 
 ```{important}
-Documents are not neutral artifacts. They were produced for particular purposes by particular people in particular contexts. Your analysis must account for this — not just extracting content, but interpreting documents as social products.
+Documents are not neutral artifacts. They were produced for particular purposes by particular people in particular contexts. Your analysis must account for this-not just extracting content, but interpreting documents as social products.
 ```
 
 ---

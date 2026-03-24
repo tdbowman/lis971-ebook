@@ -41,22 +41,22 @@ Method-specific requirements:
 
 ```{admonition} Key Reading
 :class: seealso
-- Braun & Clarke (2006) — *Using Thematic Analysis in Psychology*
-- Charmaz (2006), Chapters 3–4 — *Constructing Grounded Theory*
-- Saldaña (2016) — *The Coding Manual for Qualitative Researchers* (Introduction)
-- Miles, Huberman, & Saldaña (2014), Chapter 4 — *Qualitative Data Analysis*
-- Field (2018), Chapters 1–3 — *Discovering Statistics Using SPSS*
-- Tabachnick & Fidell (2013), Chapter 4 — *Using Multivariate Statistics*
-- Cohen (1992) — *A Power Primer*
-- Creswell & Creswell (2023), Chapter 10 — *Mixed Methods Procedures*
-- Fetters, Curry, & Creswell (2013) — *Achieving Integration in Mixed Methods*
-- Guetterman, Fetters, & Creswell (2015) — *Integrating Quantitative and Qualitative Results*
-- Tracy (2010) — *Qualitative Quality: Eight "Big-Tent" Criteria*
+- Braun & Clarke (2006)-*Using Thematic Analysis in Psychology*
+- Charmaz (2006), Chapters 3–4-*Constructing Grounded Theory*
+- Saldaña (2016)-*The Coding Manual for Qualitative Researchers* (Introduction)
+- Miles, Huberman, & Saldaña (2014), Chapter 4-*Qualitative Data Analysis*
+- Field (2018), Chapters 1–3-*Discovering Statistics Using SPSS*
+- Tabachnick & Fidell (2013), Chapter 4-*Using Multivariate Statistics*
+- Cohen (1992)-*A Power Primer*
+- Creswell & Creswell (2023), Chapter 10-*Mixed Methods Procedures*
+- Fetters, Curry, & Creswell (2013)-*Achieving Integration in Mixed Methods*
+- Guetterman, Fetters, & Creswell (2015)-*Integrating Quantitative and Qualitative Results*
+- Tracy (2010)-*Qualitative Quality: Eight "Big-Tent" Criteria*
 ```
 
 ## Chapters in This Block
 
-- {doc}`qualitative-analysis` — Coding approaches, thematic analysis, and trustworthiness
-- {doc}`quantitative-analysis` — Statistical procedures, assumption checking, and effect sizes
-- {doc}`mixed-methods-integration` — Integration strategies and joint displays
-- {doc}`notebook-analysis-tools` — Interactive assumption checking and coding demonstration tools
+- {doc}`qualitative-analysis`-Coding approaches, thematic analysis, and trustworthiness
+- {doc}`quantitative-analysis`-Statistical procedures, assumption checking, and effect sizes
+- {doc}`mixed-methods-integration`-Integration strategies and joint displays
+- {doc}`notebook-analysis-tools`-Interactive assumption checking and coding demonstration tools

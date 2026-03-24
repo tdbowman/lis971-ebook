@@ -2,7 +2,7 @@
 
 ## Why Philosophy Matters in Dissertation Research
 
-Every methodological choice you make — from how you frame your research questions to how you analyze data — rests on deeper assumptions about the nature of reality (ontology), how we can know things about that reality (epistemology), and what values inform the inquiry (axiology). These assumptions are not merely academic exercises; they form the *logic of justification* for your entire study.
+Every methodological choice you make-from how you frame your research questions to how you analyze data-rests on deeper assumptions about the nature of reality (ontology), how we can know things about that reality (epistemology), and what values inform the inquiry (axiology). These assumptions are not merely academic exercises; they form the *logic of justification* for your entire study.
 
 As Creswell and Creswell (2023) argue, researchers should make the larger philosophical ideas they espouse explicit, because this information explains *why* they chose a particular approach. Guba (1990) defined a worldview as "a basic set of beliefs that guide action" (p. 17). Others have used the terms *paradigms* (Lincoln, Lynham, & Guba, 2011), *epistemologies and ontologies* (Crotty, 1998), or *broadly conceived research methodologies* (Neuman, 2009).
 
@@ -18,10 +18,10 @@ The contemporary literature identifies four widely discussed philosophical orien
 
 ### Postpositivism
 
-Rooted in the 19th-century work of Comte, Mill, and Durkheim, and refined by Phillips and Burbules (2000), postpositivism represents the *thinking after positivism* — acknowledging that absolute certainty about human behavior is unattainable while still pursuing objective measurement and causal explanation.
+Rooted in the 19th-century work of Comte, Mill, and Durkheim, and refined by Phillips and Burbules (2000), postpositivism represents the *thinking after positivism*-acknowledging that absolute certainty about human behavior is unattainable while still pursuing objective measurement and causal explanation.
 
 **Core tenets:**
-- Knowledge is *conjectural* — we indicate a failure to reject a hypothesis, never "prove" one
+- Knowledge is *conjectural*-we indicate a failure to reject a hypothesis, never "prove" one
 - Research proceeds through *theory verification*: begin with a theory, collect data, refine
 - Objectivity, reductionism, and careful measurement are paramount
 - Standards of validity and reliability discipline the inquiry
@@ -59,7 +59,7 @@ Originating with Peirce, James, Mead, and Dewey, pragmatism focuses on *conseque
 **Core tenets:**
 - Not committed to any one philosophical system
 - Research problem drives method selection, not the other way around
-- Truth is provisional — what works at the time
+- Truth is provisional-what works at the time
 - Pluralistic: multiple methods and data sources are legitimate
 
 **Methodological alignment**: Mixed methods designs (convergent, explanatory sequential, exploratory sequential).
@@ -88,7 +88,7 @@ Crotty (1998) offered a foundational four-level hierarchy connecting philosophic
 3. **Methodology** (experimental, survey, ethnography, grounded theory)
 4. **Methods** (questionnaires, interviews, observation, statistical analysis)
 
-As Anfara and Mertz (2015) emphasize, these levels *inform one another* — an interpretivist epistemology does not logically lead to experimental methodology. Understanding this hierarchy helps you build a coherent, defensible research design where every choice aligns with every other.
+As Anfara and Mertz (2015) emphasize, these levels *inform one another*-an interpretivist epistemology does not logically lead to experimental methodology. Understanding this hierarchy helps you build a coherent, defensible research design where every choice aligns with every other.
 
 Denzin and Lincoln (2013) argued that paradigms are "overarching philosophical systems denoting particular ontologies, epistemologies, and methodologies... [which] represent belief systems that attach the user to a particular worldview" (p. 11). The researcher "approaches the world with a set of ideas, a framework (theory, ontology) that specifies a set of questions (epistemology) that he or she then examines in specific ways (methodology, analysis)" (2003b, p. 30).
 
@@ -108,5 +108,5 @@ Draft a 250-word paragraph for your methodology chapter that addresses:
 4. If you draw on multiple worldviews (common in mixed methods), how do you reconcile potential tensions?
 
 ```{tip}
-Use the Crotty (1998) hierarchy to check alignment — does your epistemology logically connect to your methodology and methods?
+Use the Crotty (1998) hierarchy to check alignment-does your epistemology logically connect to your methodology and methods?
 ```

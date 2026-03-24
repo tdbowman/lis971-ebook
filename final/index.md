@@ -27,11 +27,11 @@ Your final deliverable is a **complete, polished methodology chapter** (or IRB-r
 
 ```{admonition} Due Date
 :class: important
-**May 9** — Last day of Spring II graduate student classes
+**May 9**-Last day of Spring II graduate student classes
 ```
 
 ## Chapters in This Section
 
-- {doc}`writing-the-chapter` — Structure, common pitfalls, and the methodology chapter as argument
-- {doc}`defense-preparation` — Anticipating committee questions and building your defense
-- {doc}`checklist` — Complete submission checklist for your final methodology chapter
+- {doc}`writing-the-chapter`-Structure, common pitfalls, and the methodology chapter as argument
+- {doc}`defense-preparation`-Anticipating committee questions and building your defense
+- {doc}`checklist`-Complete submission checklist for your final methodology chapter

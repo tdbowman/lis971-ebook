@@ -8,7 +8,7 @@
 
 ## Block Overview
 
-Block 2 moves from *design* to *implementation*. You will develop complete, ready-to-implement protocols for all data collection procedures. These should be detailed enough that another researcher could replicate your study — a standard known as the "replication criterion."
+Block 2 moves from *design* to *implementation*. You will develop complete, ready-to-implement protocols for all data collection procedures. These should be detailed enough that another researcher could replicate your study-a standard known as the "replication criterion."
 
 ## What You'll Learn
 
@@ -51,20 +51,20 @@ Depending on your methods, your deliverable must include:
 
 ```{admonition} Key Reading
 :class: seealso
-- Glesne (2016), Chapter 2 — *Becoming Qualitative Researchers*
-- Merriam & Tisdell (2016), Chapter 9 — *Validity and Reliability*
-- Dillman, Smyth, & Christian (2016) — *Internet, Phone, Mail, and Mixed-Mode Surveys*
-- Emerson, Fretz, & Shaw (2011) — *Writing Ethnographic Fieldnotes*
-- Breen (2006) — *A Practical Guide to Focus-Group Research*
-- Bowen (2009) — *Document Analysis as a Qualitative Research Method*
-- Salganik (2018), Chapters 2–3 — *Bit by Bit: Social Research in the Digital Age*
-- Zimmer (2010) — *"But the Data Is Already Public"*
-- Corti (2014), Chapter 2 — *Managing and Sharing Research Data*
+- Glesne (2016), Chapter 2-*Becoming Qualitative Researchers*
+- Merriam & Tisdell (2016), Chapter 9-*Validity and Reliability*
+- Dillman, Smyth, & Christian (2016)-*Internet, Phone, Mail, and Mixed-Mode Surveys*
+- Emerson, Fretz, & Shaw (2011)-*Writing Ethnographic Fieldnotes*
+- Breen (2006)-*A Practical Guide to Focus-Group Research*
+- Bowen (2009)-*Document Analysis as a Qualitative Research Method*
+- Salganik (2018), Chapters 2–3-*Bit by Bit: Social Research in the Digital Age*
+- Zimmer (2010)-*"But the Data Is Already Public"*
+- Corti (2014), Chapter 2-*Managing and Sharing Research Data*
 ```
 
 ## Chapters in This Block
 
-- {doc}`qualitative-data-collection` — Interviews, focus groups, observation, and document analysis
-- {doc}`quantitative-instruments` — Survey design, instrument validity, and data management
-- {doc}`digital-methods-ethics` — Digital trace data, research ethics, and IRB considerations
-- {doc}`notebook-instrument-reliability` — Interactive reliability analysis tools
+- {doc}`qualitative-data-collection`-Interviews, focus groups, observation, and document analysis
+- {doc}`quantitative-instruments`-Survey design, instrument validity, and data management
+- {doc}`digital-methods-ethics`-Digital trace data, research ethics, and IRB considerations
+- {doc}`notebook-instrument-reliability`-Interactive reliability analysis tools

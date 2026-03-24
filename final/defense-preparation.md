@@ -1,6 +1,6 @@
 # Preparing for the Defense
 
-Your methodology chapter will eventually be part of your dissertation proposal defense. Preparing for tough questions now — while you're still designing your study — is far better than discovering weaknesses after your committee reads the proposal.
+Your methodology chapter will eventually be part of your dissertation proposal defense. Preparing for tough questions now-while you're still designing your study-is far better than discovering weaknesses after your committee reads the proposal.
 
 ---
 

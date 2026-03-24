@@ -2,7 +2,7 @@
 
 ## The Three Research Approaches
 
-Creswell and Creswell (2023) organize the landscape of social science inquiry into three broad approaches — qualitative, quantitative, and mixed methods — each associated with distinct philosophical assumptions, design types, and methods.
+Creswell and Creswell (2023) organize the landscape of social science inquiry into three broad approaches-qualitative, quantitative, and mixed methods-each associated with distinct philosophical assumptions, design types, and methods.
 
 ```{list-table} Qualitative, Quantitative, and Mixed Methods Approaches
 :header-rows: 1
@@ -38,7 +38,7 @@ Creswell and Creswell (2023) organize the landscape of social science inquiry in
 
 ## The Logic of Design Choice
 
-Your research design is not a preference — it is an *argument*. The design must be justified by:
+Your research design is not a preference-it is an *argument*. The design must be justified by:
 
 1. **The nature of your research problem**: Exploratory problems (understanding lived experience, generating theory) call for qualitative designs. Explanatory or predictive problems (testing relationships, measuring outcomes) call for quantitative designs. Complex problems requiring both breadth and depth call for mixed methods.
 
@@ -67,10 +67,10 @@ Maxwell (2013) offers a particularly useful *interactive model* of qualitative r
 : Generates theory grounded in systematically gathered and analyzed data (Charmaz, 2006; Glaser & Strauss, 1967). Coding moves from initial to focused to theoretical. Sampling continues until theoretical saturation.
 
 **Ethnography**
-: Describes and interprets a culture-sharing group through prolonged engagement (Emerson, Fretz, & Shaw, 2011). Requires extended fieldwork — often months to years of observation and participation.
+: Describes and interprets a culture-sharing group through prolonged engagement (Emerson, Fretz, & Shaw, 2011). Requires extended fieldwork-often months to years of observation and participation.
 
 **Case Study**
-: In-depth investigation of a bounded system — a person, program, event, or community (Merriam & Tisdell, 2016). Can be single or multiple-case. Requires clear definition of the "case" and its boundaries.
+: In-depth investigation of a bounded system-a person, program, event, or community (Merriam & Tisdell, 2016). Can be single or multiple-case. Requires clear definition of the "case" and its boundaries.
 
 **Narrative Inquiry**
 : Studies the stories people tell about their experiences, analyzing structure, content, and performance of narratives. Often focuses on one or a small number of individuals.
@@ -111,7 +111,7 @@ QUAN data collection and analysis → QUAL follow-up to explain or elaborate. Of
 QUAL data collection and analysis → QUAN instrument development or testing. Used when existing instruments are inadequate for your population or construct. The QUAL strand informs the QUAN design.
 
 ```{important}
-The key challenge in mixed methods is **integration** — the point at which qualitative and quantitative strands inform each other. Simply collecting both types of data is not mixed methods research; integration must be deliberate and visible.
+The key challenge in mixed methods is **integration**-the point at which qualitative and quantitative strands inform each other. Simply collecting both types of data is not mixed methods research; integration must be deliberate and visible.
 
 Fetters, Curry, and Creswell (2013) identify integration at three levels: design, methods, and interpretation/reporting.
 ```
@@ -124,6 +124,6 @@ Write a 300-word section for your Block 1 deliverable that:
 
 1. States your research approach (qualitative, quantitative, or mixed methods)
 2. Identifies the specific design type (e.g., explanatory sequential mixed methods; constructivist grounded theory)
-3. Provides a *methodological justification* — why is this design the best fit for your research questions?
+3. Provides a *methodological justification*-why is this design the best fit for your research questions?
 4. Acknowledges at least one limitation of your chosen design and how you will address it
 5. Cites at least two methodological sources to support your choice

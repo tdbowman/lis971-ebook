@@ -8,7 +8,7 @@
 
 ## Block Overview
 
-Block 1 is where you lay the foundation for your entire methodology. The decisions you make here — your philosophical stance, your choice of research design, and your sampling strategy — will determine the logic of everything that follows. Every subsequent choice about data collection, analysis, and quality criteria must be *coherent* with the decisions you make in this block.
+Block 1 is where you lay the foundation for your entire methodology. The decisions you make here-your philosophical stance, your choice of research design, and your sampling strategy-will determine the logic of everything that follows. Every subsequent choice about data collection, analysis, and quality criteria must be *coherent* with the decisions you make in this block.
 
 ## What You'll Learn
 
@@ -42,17 +42,17 @@ Your deliverable must include:
 
 ```{admonition} Key Reading
 :class: seealso
-- Creswell & Creswell (2023), Chapter 1 — *The Selection of a Research Approach*
-- Maxwell (2013), Chapter 1 — *A Model for Qualitative Research Design*
-- Patton (2014), Chapter 5 — *Designing Qualitative Studies* (sampling sections)
-- Robinson (2013) — *Sampling in Interview-Based Qualitative Research*
-- Cohen (1992) — *A Power Primer*
-- Teddlie & Yu (2007) — *Mixed Methods Sampling*
+- Creswell & Creswell (2023), Chapter 1-*The Selection of a Research Approach*
+- Maxwell (2013), Chapter 1-*A Model for Qualitative Research Design*
+- Patton (2014), Chapter 5-*Designing Qualitative Studies* (sampling sections)
+- Robinson (2013)-*Sampling in Interview-Based Qualitative Research*
+- Cohen (1992)-*A Power Primer*
+- Teddlie & Yu (2007)-*Mixed Methods Sampling*
 ```
 
 ## Chapters in This Block
 
-- {doc}`philosophical-foundations` — Worldviews, paradigms, and the epistemology–methodology connection
-- {doc}`research-design` — Choosing and defending qualitative, quantitative, or mixed methods designs
-- {doc}`sampling-strategies` — Probability, purposive, and mixed methods sampling
-- {doc}`notebook-power-analysis` — Interactive power analysis and sample size tools
+- {doc}`philosophical-foundations`-Worldviews, paradigms, and the epistemology–methodology connection
+- {doc}`research-design`-Choosing and defending qualitative, quantitative, or mixed methods designs
+- {doc}`sampling-strategies`-Probability, purposive, and mixed methods sampling
+- {doc}`notebook-power-analysis`-Interactive power analysis and sample size tools

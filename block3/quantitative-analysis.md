@@ -72,13 +72,13 @@ Before running any parametric test, you must verify that your data meet the test
 : For correlation and regression, the relationship between variables should be approximately linear. Assessed through scatterplot inspection and residual plots.
 
 **Independence**
-: Observations should be independent of each other. This is primarily a *design* assumption — ensured through random sampling and proper research procedures.
+: Observations should be independent of each other. This is primarily a *design* assumption-ensured through random sampling and proper research procedures.
 
 **Absence of multicollinearity** (for regression)
 : Predictor variables should not be too highly correlated with each other. Assessed through Variance Inflation Factor (VIF < 10) and tolerance statistics.
 
 ```{warning}
-Never skip assumption checking. Reporting statistical results from tests whose assumptions are violated can lead to incorrect conclusions — Type I or Type II errors that undermine your entire study. Your methodology chapter should describe how you will check assumptions *before* running your primary analyses.
+Never skip assumption checking. Reporting statistical results from tests whose assumptions are violated can lead to incorrect conclusions-Type I or Type II errors that undermine your entire study. Your methodology chapter should describe how you will check assumptions *before* running your primary analyses.
 ```
 
 See the {doc}`notebook-analysis-tools` for an interactive assumption-checking dashboard.
