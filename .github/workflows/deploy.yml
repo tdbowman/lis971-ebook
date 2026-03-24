@@ -13,22 +13,34 @@ jobs:
   deploy-book:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
         with:
-          python-version: "3.12"
-          cache: pip
+          node-version: "22"
 
-      - name: Install dependencies
-        run: pip install -r requirements.txt
+      - name: Install MyST Markdown
+        run: npm install -g mystmd
 
       - name: Build the book
-        run: jupyter-book build .
+        env:
+          BASE_URL: /lis971-ebook
+        run: myst build --html
+
+      - name: Show build output
+        run: |
+          echo "=== _build directory ==="
+          ls -la _build/ || echo "_build does not exist"
+          echo "=== _build/html ==="
+          ls -la _build/html/ 2>/dev/null || echo "_build/html does not exist"
+          echo "=== _build/site ==="
+          ls -la _build/site/ 2>/dev/null || echo "_build/site does not exist"
+          echo "=== looking for index.html ==="
+          find _build -name "index.html" 2>/dev/null || echo "no index.html found"
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
         with:
           path: _build/html
 
