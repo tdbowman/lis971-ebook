@@ -1,0 +1,14 @@
+title: Designing Defensible Dissertation Research
+author: Timothy D. Bowman
+execute:
+  execute_notebooks: "off"
+
+html:
+  use_repository_button: true
+  use_issues_button: false
+
+project:
+  github: https://github.com/tdbowman/lis971-ebook
+
+site:
+  template: book-theme

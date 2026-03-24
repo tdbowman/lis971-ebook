@@ -1,0 +1,21 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: a7e3f291-5b84-4d2c-9e16-8c4a7df12b05
+  title: Designing Defensible Dissertation Research
+  description: >
+    An interactive eBook companion for LIS 971: Research Methods for Dissertation Work.
+  keywords:
+    - research methods
+    - dissertation
+    - methodology
+    - library and information science
+  authors:
+    - name: Timothy D. Bowman
+  github: https://github.com/tdbowman/lis971-ebook
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png

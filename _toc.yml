@@ -1,0 +1,43 @@
+format: jb-book
+root: intro
+chapters:
+  # GETTING STARTED
+  - file: about
+    sections:
+      - file: how-to-use
+
+  # BLOCK 1: Research Design + Sampling
+  - file: block1/index
+    sections:
+      - file: block1/philosophical-foundations
+      - file: block1/research-design
+      - file: block1/sampling-strategies
+      - file: block1/notebook-power-analysis
+
+  # BLOCK 2: Data Collection Protocols
+  - file: block2/index
+    sections:
+      - file: block2/qualitative-data-collection
+      - file: block2/quantitative-instruments
+      - file: block2/digital-methods-ethics
+      - file: block2/notebook-instrument-reliability
+
+  # BLOCK 3: Analysis Plan
+  - file: block3/index
+    sections:
+      - file: block3/qualitative-analysis
+      - file: block3/quantitative-analysis
+      - file: block3/mixed-methods-integration
+      - file: block3/notebook-analysis-tools
+
+  # FINAL: Methodology Chapter
+  - file: final/index
+    sections:
+      - file: final/writing-the-chapter
+      - file: final/defense-preparation
+      - file: final/checklist
+
+  # RESOURCES
+  - file: resources/readings-by-topic
+    sections:
+      - file: resources/software-tools
