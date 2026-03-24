@@ -1,7 +1,6 @@
 # See docs at: https://mystmd.org/guide/frontmatter
 version: 1
 project:
-  id: a7e3f291-5b84-4d2c-9e16-8c4a7df12b05
   title: Designing Defensible Dissertation Research
   description: >
     An interactive eBook companion for LIS 971: Research Methods for Dissertation Work.
@@ -13,9 +12,45 @@ project:
   authors:
     - name: Timothy D. Bowman
   github: https://github.com/tdbowman/lis971-ebook
-  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+
+  toc:
+    - file: intro.md
+    - title: Getting Started
+      children:
+        - file: about.md
+        - file: how-to-use.md
+    - title: "Block 1: Research Design + Sampling"
+      children:
+        - file: block1/index.md
+        - file: block1/philosophical-foundations.md
+        - file: block1/research-design.md
+        - file: block1/sampling-strategies.md
+        - file: block1/notebook-power-analysis.ipynb
+    - title: "Block 2: Data Collection Protocols"
+      children:
+        - file: block2/index.md
+        - file: block2/qualitative-data-collection.md
+        - file: block2/quantitative-instruments.md
+        - file: block2/digital-methods-ethics.md
+        - file: block2/notebook-instrument-reliability.ipynb
+    - title: "Block 3: Analysis Plan"
+      children:
+        - file: block3/index.md
+        - file: block3/qualitative-analysis.md
+        - file: block3/quantitative-analysis.md
+        - file: block3/mixed-methods-integration.md
+        - file: block3/notebook-analysis-tools.ipynb
+    - title: "Final: Methodology Chapter"
+      children:
+        - file: final/index.md
+        - file: final/writing-the-chapter.md
+        - file: final/defense-preparation.md
+        - file: final/checklist.md
+    - title: Resources
+      children:
+        - file: resources/readings-by-topic.md
+        - file: resources/software-tools.md
+
 site:
   template: book-theme
-  # options:
-  #   favicon: favicon.ico
-  #   logo: site_logo.png
+  title: Designing Defensible Dissertation Research
