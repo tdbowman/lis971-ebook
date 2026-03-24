@@ -50,6 +50,7 @@ project:
         - file: statistics/choosing-a-test.md
         - file: statistics/advanced-methods.md
         - file: statistics/statistics-in-qualitative.md
+        - file: statistics/notebook-statistics-demo.ipynb
     - title: "Final: Methodology Chapter"
       children:
         - file: final/index.md
