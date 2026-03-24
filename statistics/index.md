@@ -6,7 +6,7 @@
 
 ## Why This Section Exists
 
-Many doctoral students in Library and Information Science come from practice backgrounds rather than quantitative training. If the word "statistics" makes you nervous, you're in good company and this section is written specifically for you.
+Many doctoral students in Library and Information Science come from practice backgrounds rather than quantitative training. If the word "statistics" makes you nervous, you're in good company:  and this section is written specifically for you.
 
 Whether you're conducting quantitative, qualitative, or mixed methods research, you will encounter statistical concepts. Even qualitative researchers need to understand statistics well enough to read and critically evaluate quantitative studies, communicate with committee members who use quantitative methods, and make informed decisions about concepts like inter-rater reliability and saturation.
 

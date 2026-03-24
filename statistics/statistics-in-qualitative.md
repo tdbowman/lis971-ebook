@@ -30,7 +30,7 @@ Corrects for chance agreement between two coders. This is the most commonly repo
 
 ### Krippendorff's Alpha
 
-More flexible than kappa works with any number of coders (not just two), any number of categories, and any measurement level. Krippendorff (2018) recommends a minimum of α = .80, with α = .667 as the lowest acceptable value for tentative conclusions.
+More flexible than kappa:  works with any number of coders (not just two), any number of categories, and any measurement level. Krippendorff (2018) recommends a minimum of α = .80, with α = .667 as the lowest acceptable value for tentative conclusions.
 
 ```{tip}
 **What should you report in your methodology chapter?** If you use team coding, report your inter-rater reliability measure (kappa or Krippendorff's alpha), the number of coders, the percentage of data independently coded, and how disagreements were resolved. A common approach: independently code 20–25% of the data, calculate reliability, discuss and resolve disagreements, then code the remainder.
@@ -38,7 +38,7 @@ More flexible than kappa works with any number of coders (not just two), any num
 
 ### The Debate About Reliability in Qualitative Research
 
-Not all qualitative methodologists agree that inter-rater reliability is necessary or appropriate. Saldaña (2016) notes that some scholars question whether quantitative reliability measures are compatible with qualitative epistemology, since coding is inherently an interpretive act. These researchers prefer "dialogical intersubjectivity" intensive group discussion and consensus over statistical coefficients.
+Not all qualitative methodologists agree that inter-rater reliability is necessary or appropriate. Saldaña (2016) notes that some scholars question whether quantitative reliability measures are compatible with qualitative epistemology, since coding is inherently an interpretive act. These researchers prefer "dialogical intersubjectivity":  intensive group discussion and consensus:  over statistical coefficients.
 
 Your committee's expectations will determine which approach you take. In either case, your methodology chapter should explain and justify your choice.
 
@@ -46,7 +46,7 @@ Your committee's expectations will determine which approach you take. In either 
 
 ## Frequency Counts and Their Role
 
-Counting how often a code appears across your data is a common and sometimes controversial practice in qualitative research.
+Counting how often a code appears across your data is a common:  and sometimes controversial:  practice in qualitative research.
 
 ### When Frequency Counts Help
 
@@ -57,7 +57,7 @@ Counting how often a code appears across your data is a common and sometimes con
 
 ### When Frequency Counts Mislead
 
-- **Frequency is not importance**: A theme mentioned once by one participant might be more analytically significant than a theme mentioned by everyone if it reveals something hidden or contradictory
+- **Frequency is not importance**: A theme mentioned once by one participant might be more analytically significant than a theme mentioned by everyone:  if it reveals something hidden or contradictory
 - **Over-counting can flatten complexity**: Reducing rich qualitative data to frequency tables can strip away the context and nuance that make qualitative research valuable
 - **Not all codes are equal**: A code that appears 30 times as brief mentions is different from a code that appears 5 times in deep, extended narratives
 
@@ -69,7 +69,7 @@ Saldaña (2016) puts it directly: "Frequency of occurrence is not necessarily an
 
 ## Saturation: A Quasi-Statistical Concept
 
-Theoretical saturation the point at which new data no longer generate new codes, categories, or themes is fundamentally a judgment call, but it has quantitative dimensions.
+Theoretical saturation:  the point at which new data no longer generate new codes, categories, or themes:  is fundamentally a judgment call, but it has quantitative dimensions.
 
 Guest, Bunce, and Johnson (2006) conducted one of the few empirical studies of saturation, finding that in their relatively homogeneous sample, 92% of codes were identified within the first 12 interviews. This is now widely cited as a benchmark, though the authors themselves caution against treating it as a universal rule.
 
@@ -101,7 +101,7 @@ In mixed methods research, "quantitizing" refers to converting qualitative data 
 
 ### Paradigmatic Corroboration
 
-Saldaña (2016) describes "paradigmatic corroboration" when quantitative results from a dataset align with the qualitative coding of the same data, each validates the other. For example, if a t-test shows a significant difference between two groups' numeric ratings, and the qualitative codes for those groups also show distinct thematic patterns, the two forms of evidence corroborate each other.
+Saldaña (2016) describes "paradigmatic corroboration":  when quantitative results from a dataset align with the qualitative coding of the same data, each validates the other. For example, if a t-test shows a significant difference between two groups' numeric ratings, and the qualitative codes for those groups also show distinct thematic patterns, the two forms of evidence corroborate each other.
 
 ---
 
@@ -113,9 +113,9 @@ Even if you never run a statistical test, you'll encounter these concepts when r
 |---------|----------------------|
 | **Mean and standard deviation** | You'll see these in every quantitative study you read. Understanding what they communicate helps you critically evaluate findings. |
 | **p-value** | Knowing what p < .05 means (and doesn't mean) is essential for reading research across traditions. See [Inferential Statistics](inferential-basics.md). |
-| **Effect size** | Helps you evaluate whether a statistically significant finding is actually *meaningful* a skill useful in any tradition. |
-| **Confidence interval** | Gives a range of plausible values rather than a single point estimate similar in spirit to qualitative researchers' comfort with multiple interpretations. |
-| **Sample size and power** | Understanding why quantitative researchers need specific sample sizes helps you explain why qualitative research uses different and usually smaller samples. |
+| **Effect size** | Helps you evaluate whether a statistically significant finding is actually *meaningful*:  a skill useful in any tradition. |
+| **Confidence interval** | Gives a range of plausible values rather than a single point estimate:  similar in spirit to qualitative researchers' comfort with multiple interpretations. |
+| **Sample size and power** | Understanding why quantitative researchers need specific sample sizes helps you explain why qualitative research uses different:  and usually smaller:  samples. |
 | **Correlation vs. causation** | A distinction that matters in both traditions. Qualitative researchers make causal claims through process tracing and thick description rather than through statistical control. |
 
 ---

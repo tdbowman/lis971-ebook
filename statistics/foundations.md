@@ -18,7 +18,7 @@ When you design a study, each variable plays a specific role:
 : The variable you believe *causes* or *predicts* something. In an experiment, it's what you manipulate. In a survey, it's what you think explains differences in outcomes.
 
 **Dependent variable (DV)**
-: The variable you are trying to *explain* or *predict*. It's the outcome the thing that changes (or doesn't) depending on the IV.
+: The variable you are trying to *explain* or *predict*. It's the outcome:  the thing that changes (or doesn't) depending on the IV.
 
 **Control variable (covariate)**
 : A variable you account for so it doesn't confuse your results. For example, controlling for age when studying the relationship between technology experience and information literacy.
@@ -61,12 +61,12 @@ How you measure a variable determines which statistics you can use. This is one 
 ```
 
 ```{important}
-**The practical takeaway:** Nominal and ordinal variables require *nonparametric* tests (chi-square, Mann-Whitney). Interval and ratio variables can use *parametric* tests (t-test, ANOVA, regression) assuming other conditions are met. Getting this wrong is one of the most common statistical errors in dissertation research.
+**The practical takeaway:** Nominal and ordinal variables require *nonparametric* tests (chi-square, Mann-Whitney). Interval and ratio variables can use *parametric* tests (t-test, ANOVA, regression):  assuming other conditions are met. Getting this wrong is one of the most common statistical errors in dissertation research.
 ```
 
 ### The Likert Scale Debate
 
-A single Likert item ("Strongly Disagree" to "Strongly Agree") is technically ordinal the distance between "Agree" and "Strongly Agree" isn't necessarily the same as between "Disagree" and "Neutral." However, when you create a *composite score* by averaging multiple Likert items measuring the same construct, many researchers treat the result as interval data. This is common and generally accepted practice, but you should acknowledge the assumption in your methodology chapter.
+A single Likert item ("Strongly Disagree" to "Strongly Agree") is technically ordinal:  the distance between "Agree" and "Strongly Agree" isn't necessarily the same as between "Disagree" and "Neutral." However, when you create a *composite score* by averaging multiple Likert items measuring the same construct, many researchers treat the result as interval data. This is common and generally accepted practice, but you should acknowledge the assumption in your methodology chapter.
 
 ---
 
@@ -89,12 +89,12 @@ Most parametric tests (t-tests, ANOVA, regression) *assume* your data are approx
 ### Skewness and Kurtosis
 
 **Skewness** describes whether the distribution leans to one side:
-- *Positive skew* (right-skewed): Long tail to the right. Example: income data most people cluster at lower values, with a few very high earners pulling the tail right.
-- *Negative skew* (left-skewed): Long tail to the left. Example: exam scores in an easy course most people score high.
+- *Positive skew* (right-skewed): Long tail to the right. Example: income data:  most people cluster at lower values, with a few very high earners pulling the tail right.
+- *Negative skew* (left-skewed): Long tail to the left. Example: exam scores in an easy course:  most people score high.
 
 **Kurtosis** describes the "peakedness" of the distribution:
-- *Leptokurtic* (positive kurtosis): Tall and narrow with heavy tails more extreme values than a normal distribution
-- *Platykurtic* (negative kurtosis): Flat and wide fewer extreme values
+- *Leptokurtic* (positive kurtosis): Tall and narrow with heavy tails:  more extreme values than a normal distribution
+- *Platykurtic* (negative kurtosis): Flat and wide:  fewer extreme values
 
 ```{tip}
 As a rule of thumb, skewness and kurtosis values between -1 and +1 suggest approximate normality. Values beyond ±2 indicate a distribution that may cause problems for parametric tests. See the assumption-checking notebook in Block 3 for tools to assess this visually.
@@ -104,7 +104,7 @@ As a rule of thumb, skewness and kurtosis values between -1 and +1 suggest appro
 
 ## Populations and Samples
 
-**Population**: Everyone (or everything) you want to draw conclusions about all public librarians in Illinois, all first-generation doctoral students, all tweets containing a particular hashtag.
+**Population**: Everyone (or everything) you want to draw conclusions about:  all public librarians in Illinois, all first-generation doctoral students, all tweets containing a particular hashtag.
 
 **Sample**: The subset you actually study. You collect data from a sample and use statistics to make *inferences* about the population.
 
@@ -126,6 +126,6 @@ Here are the terms you'll see repeatedly in methodology chapters and statistical
 | **Variance** | How spread out the scores are from the mean |
 | **Standard deviation** | The average distance of scores from the mean (square root of variance) |
 | **Normal distribution** | The symmetric bell curve that many statistical tests assume |
-| **Degrees of freedom (df)** | The number of values free to vary in a calculation affects critical values for tests |
+| **Degrees of freedom (df)** | The number of values free to vary in a calculation:  affects critical values for tests |
 | **Statistical significance** | The probability that your result occurred by chance alone (typically p < .05) |
 | **Effect size** | How large and meaningful the result is, independent of sample size |

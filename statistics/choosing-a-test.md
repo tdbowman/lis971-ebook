@@ -1,6 +1,6 @@
 # Choosing a Statistical Test
 
-This chapter is a practical decision guide. Given your research question and data types, it helps you identify the appropriate statistical procedure. Bookmark this page you'll come back to it.
+This chapter is a practical decision guide. Given your research question and data types, it helps you identify the appropriate statistical procedure. Bookmark this page:  you'll come back to it.
 
 ---
 
@@ -86,7 +86,7 @@ Choosing a test requires answering three questions:
 ```
 
 ```{important}
-**Correlation does not imply causation.** A significant correlation between two variables means they are *associated* they tend to move together. It does not tell you that one causes the other. There may be a third variable causing both, or the causal direction may be reversed, or the relationship may be coincidental.
+**Correlation does not imply causation.** A significant correlation between two variables means they are *associated*:  they tend to move together. It does not tell you that one causes the other. There may be a third variable causing both, or the causal direction may be reversed, or the relationship may be coincidental.
 ```
 
 ---
