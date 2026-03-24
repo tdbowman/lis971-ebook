@@ -5,6 +5,7 @@ chapters:
   - file: about
     sections:
       - file: how-to-use
+      - file: using-notebooks
 
   # BLOCK 1: Research Design + Sampling
   - file: block1/index
