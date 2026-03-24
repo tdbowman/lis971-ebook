@@ -41,6 +41,15 @@ project:
         - file: block3/quantitative-analysis.md
         - file: block3/mixed-methods-integration.md
         - file: block3/notebook-analysis-tools.ipynb
+    - title: "Statistics for Dissertation Research"
+      children:
+        - file: statistics/index.md
+        - file: statistics/foundations.md
+        - file: statistics/descriptive-statistics.md
+        - file: statistics/inferential-basics.md
+        - file: statistics/choosing-a-test.md
+        - file: statistics/advanced-methods.md
+        - file: statistics/statistics-in-qualitative.md
     - title: "Final: Methodology Chapter"
       children:
         - file: final/index.md
