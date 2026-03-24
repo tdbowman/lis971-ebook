@@ -1,6 +1,6 @@
 # Descriptive Statistics: Summarizing Your Data
 
-Descriptive statistics do exactly what the name says — they *describe* your data. Before you run any inferential test, you need to understand what your data look like. Descriptive statistics are also what you report in your results section to give readers a picture of your sample and variables.
+Descriptive statistics do exactly what the name says they *describe* your data. Before you run any inferential test, you need to understand what your data look like. Descriptive statistics are also what you report in your results section to give readers a picture of your sample and variables.
 
 ---
 
@@ -22,7 +22,7 @@ The middle value when all scores are arranged in order. Not affected by outliers
 
 **When to use:** Ordinal data, or interval/ratio data that are skewed.
 
-**Example:** The median annual salary for respondents was $52,000 — more informative than the mean when a few very high salaries pull the average up.
+**Example:** The median annual salary for respondents was $52,000 more informative than the mean when a few very high salaries pull the average up.
 
 ### Mode
 
@@ -76,7 +76,7 @@ For categorical variables, you describe data using counts and percentages rather
 | School | 13 | 10.8% |
 | **Total** | **120** | **100%** |
 
-**Cross-tabulation** (contingency table) shows the relationship between two categorical variables — for example, library type by geographic region. Chi-square tests analyze these tables (see [Inferential Statistics](inferential-basics.md)).
+**Cross-tabulation** (contingency table) shows the relationship between two categorical variables for example, library type by geographic region. Chi-square tests analyze these tables (see [Inferential Statistics](inferential-basics.md)).
 
 ---
 
@@ -94,7 +94,7 @@ A well-chosen chart reveals patterns that numbers alone can miss. Different data
 | Parts of a whole | Stacked bar or pie chart | Proportions |
 
 ```{warning}
-**Avoid pie charts for more than 4–5 categories** — they become unreadable. Use bar charts instead. Also, always start your y-axis at zero for bar charts to avoid visually exaggerating small differences.
+**Avoid pie charts for more than 4–5 categories** they become unreadable. Use bar charts instead. Also, always start your y-axis at zero for bar charts to avoid visually exaggerating small differences.
 ```
 
 ---

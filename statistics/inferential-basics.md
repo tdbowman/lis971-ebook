@@ -8,22 +8,22 @@ Descriptive statistics summarize *your sample*. Inferential statistics help you 
 
 Hypothesis testing follows a consistent logic, regardless of which specific test you use:
 
-**Step 1 — State two competing hypotheses:**
+**Step 1 State two competing hypotheses:**
 - The *null hypothesis* (H₀): There is no effect, no difference, no relationship. This is the default assumption.
 - The *alternative hypothesis* (H₁ or Hₐ): There *is* an effect, difference, or relationship. This is what you're trying to find evidence for.
 
-**Step 2 — Collect data and calculate a test statistic:**
+**Step 2 Collect data and calculate a test statistic:**
 The test statistic (like *t*, *F*, or χ²) quantifies how far your sample result is from what the null hypothesis predicts.
 
-**Step 3 — Determine the probability (p-value):**
+**Step 3 Determine the probability (p-value):**
 The p-value answers: *If the null hypothesis were true, how likely is it that I would get a result at least this extreme?*
 
-**Step 4 — Make a decision:**
+**Step 4 Make a decision:**
 - If p < .05 (conventional threshold): Reject H₀. The result is "statistically significant."
 - If p ≥ .05: Fail to reject H₀. You did not find sufficient evidence to support your alternative hypothesis.
 
 ```{important}
-**"Fail to reject" is not the same as "prove the null is true."** A non-significant result means you didn't find enough evidence — not that there is definitely no effect. The effect might exist but be too small for your sample size to detect (a problem of *statistical power*).
+**"Fail to reject" is not the same as "prove the null is true."** A non-significant result means you didn't find enough evidence not that there is definitely no effect. The effect might exist but be too small for your sample size to detect (a problem of *statistical power*).
 ```
 
 ---
@@ -51,8 +51,8 @@ Every decision in hypothesis testing carries a risk of error:
 
 | | You Reject H₀ | You Fail to Reject H₀ |
 |---|---|---|
-| **H₀ is actually true** | **Type I Error** (false positive) — you think there's an effect when there isn't | Correct decision |
-| **H₀ is actually false** | Correct decision | **Type II Error** (false negative) — you miss a real effect |
+| **H₀ is actually true** | **Type I Error** (false positive) you think there's an effect when there isn't | Correct decision |
+| **H₀ is actually false** | Correct decision | **Type II Error** (false negative) you miss a real effect |
 
 **Alpha (α)**: The probability of a Type I error. By convention, α = .05 means you accept a 5% chance of a false positive.
 
@@ -76,7 +76,7 @@ How many standard deviations apart are the two group means?
 | 0.50 | Medium effect |
 | 0.80 | Large effect |
 
-**Example:** "The training group scored significantly higher than the control group, *t*(48) = 2.85, *p* = .006, *d* = 0.72" — a medium-to-large effect.
+**Example:** "The training group scored significantly higher than the control group, *t*(48) = 2.85, *p* = .006, *d* = 0.72" a medium-to-large effect.
 
 ### Pearson's r (for relationships between variables)
 
@@ -130,7 +130,7 @@ Confidence intervals provide *more information* than p-values alone. They tell y
 
 ## Statistical Power and Sample Size
 
-Power is the probability that your study will detect a real effect if one exists. Low power means you might miss real effects — a waste of time, effort, and participants' goodwill.
+Power is the probability that your study will detect a real effect if one exists. Low power means you might miss real effects a waste of time, effort, and participants' goodwill.
 
 Power depends on four interconnected elements (Cohen, 1992):
 
@@ -162,5 +162,5 @@ Here's how to read each piece:
 | *SD* = 11.4 and 12.8 | How spread out scores are within each group |
 | *t*(78) = 3.02 | The test statistic and degrees of freedom |
 | *p* = .003 | The result is statistically significant (< .05) |
-| *d* = 0.68 | A medium-to-large effect — practically meaningful |
+| *d* = 0.68 | A medium-to-large effect practically meaningful |
 | 95% CI [2.82, 13.58] | The true difference is likely between about 3 and 14 points |
