@@ -1,6 +1,6 @@
 # See docs at: https://mystmd.org/guide/frontmatter
 version: 1
-project:
+project: 
   title: Designing Defensible Dissertation Research
   description: >
     An interactive eBook companion for LIS 971: Research Methods for Dissertation Work.
