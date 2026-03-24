@@ -19,6 +19,7 @@ project:
       children:
         - file: about.md
         - file: how-to-use.md
+        - file: using-notebooks.md
     - title: "Block 1: Research Design + Sampling"
       children:
         - file: block1/index.md
